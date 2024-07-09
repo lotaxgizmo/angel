@@ -5,6 +5,7 @@ import telegram from '../assets/telegram.svg'
 import communitydog from '../assets/communitydog.svg'
 import join from '../assets/join.svg'
 import cloudleft from '../assets/cloudleft.svg'
+import dexscreenerbtn from '../assets/dexscreenerbtn.svg';
 
 function Community() {
     return (
@@ -17,6 +18,7 @@ function Community() {
                     <a href="https://raydium.io/swap/?outputMint=7xEdKtj6nX2nvqPGayLi4egSWwr53NYSaVZQLRLapump&inputMint=sol" target="_blank" rel="noopener noreferrer"><img src={buybtn2} alt="" className='lg:m-4 m-1' /></a>
                     <a href="https://t.me/AwifSolPortal" target="_blank" rel="noopener noreferrer"><img src={telegram} alt="" className='lg:m-4 m-1 w-12' /></a>
                     <a href="https://x.com/angelwifsols" target="_blank" rel="noopener noreferrer"><img src={twitter} alt="" className='lg:m-4 m-1 w-12' /></a>
+                    <a href="https://dexscreener.com/solana/7xEdKtj6nX2nvqPGayLi4egSWwr53NYSaVZQLRLapump" target="_blank" rel="noopener noreferrer"><img src={dexscreenerbtn} alt="" className='lg:m-4 m-1 w-12' /></a>
 
 
                 </div>
