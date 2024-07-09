@@ -16,8 +16,10 @@ function Footer() {
                 </div>
 
                 <div className="btns flex  flex-row">
-                    <img src={telegrambtn} alt="" className='m-3' />
-                    <img src={twitterbtn} alt="" className='m-3' />
+                    <a href="https://t.me/AwifSolPortal" target="_blank" rel="noopener noreferrer">     <img src={telegrambtn} alt="" className='m-3' /></a>
+                    <a href="https://x.com/angelwifsols" target="_blank" rel="noopener noreferrer">     <img src={twitterbtn} alt="" className='m-3' /></a>
+
+
                 </div>
             </div>
             <div className='flex lg:flex-row flex-col items-center justify-center bg-black text-white h-28 relative px-4 lg:px-24'>

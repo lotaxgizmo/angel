@@ -14,9 +14,9 @@ function Community() {
                 <img src={join} alt="" className='' />
                 <img src={communitydog} alt="" className='lg:absolute right-0 -bottom-5 w-96 my-5' />
                 <div className="btn flex flex-colf lg:flex-row justify-center items-center">
-                    <a href="#" target="_blank" rel="noopener noreferrer"><img src={buybtn2} alt="" className='lg:m-4 m-1' /></a>
-                    <a href="#" target="_blank" rel="noopener noreferrer"><img src={telegram} alt="" className='lg:m-4 m-1 w-12' /></a>
-                    <a href="#" target="_blank" rel="noopener noreferrer"><img src={twitter} alt="" className='lg:m-4 m-1 w-12' /></a>
+                    <a href="https://raydium.io/swap/?outputMint=7xEdKtj6nX2nvqPGayLi4egSWwr53NYSaVZQLRLapump&inputMint=sol" target="_blank" rel="noopener noreferrer"><img src={buybtn2} alt="" className='lg:m-4 m-1' /></a>
+                    <a href="https://t.me/AwifSolPortal" target="_blank" rel="noopener noreferrer"><img src={telegram} alt="" className='lg:m-4 m-1 w-12' /></a>
+                    <a href="https://x.com/angelwifsols" target="_blank" rel="noopener noreferrer"><img src={twitter} alt="" className='lg:m-4 m-1 w-12' /></a>
 
 
                 </div>

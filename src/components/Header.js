@@ -26,9 +26,9 @@ function Header() {
                 </div>
 
                 <div className="btns hidden lg:flex flex-row justify-center items-center">
-                    <a href="#" target="_blank" rel="noopener noreferrer"><img src={telegram} alt="" className='m-3 w-14' /></a>
+                    <a href="https://t.me/AwifSolPortal" target="_blank" rel="noopener noreferrer"><img src={telegram} alt="" className='m-3 w-14' /></a>
                     <a href="#" target="_blank" rel="noopener noreferrer"><img src={twitterbtn} alt="" className='m-3 w-14' /></a>
-                    <a href="#" target="_blank" rel="noopener noreferrer"><img src={buybtn2} alt="" className='m-3' /></a>
+                    <a href="https://raydium.io/swap/?outputMint=7xEdKtj6nX2nvqPGayLi4egSWwr53NYSaVZQLRLapump&inputMint=sol" target="_blank" rel="noopener noreferrer"><img src={buybtn2} alt="" className='m-3' /></a>
                 </div>
 
                 <div className="lg:hidden">
@@ -43,9 +43,9 @@ function Header() {
                     <a href="#about" className='py-2'><p className='text-2xl'>ABOUT</p></a>
                     <a href="#agenomics" className='py-2'><p className='text-2xl'>ANGENOMICS</p></a>
                     <a href="#community" className='py-2'><p className='text-2xl'>COMMUNITY</p></a>
-                    <a href="#" target="_blank" rel="noopener noreferrer" className='py-2'><img src={telegram} alt="" className='w-14' /></a>
-                    <a href="#" target="_blank" rel="noopener noreferrer" className='py-2'><img src={twitterbtn} alt="" className='w-14' /></a>
-                    <a href="#" target="_blank" rel="noopener noreferrer" className='py-2'><img src={buybtn2} alt="" /></a>
+                    <a href="https://t.me/AwifSolPortal" target="_blank" rel="noopener noreferrer" className='py-2'><img src={telegram} alt="" className='w-14' /></a>
+                    <a href="https://x.com/angelwifsols" target="_blank" rel="noopener noreferrer" className='py-2'><img src={twitterbtn} alt="" className='w-14' /></a>
+                    <a href="https://raydium.io/swap/?outputMint=7xEdKtj6nX2nvqPGayLi4egSWwr53NYSaVZQLRLapump&inputMint=sol" target="_blank" rel="noopener noreferrer" className='py-2'><img src={buybtn2} alt="" /></a>
                 </div>
             )}
         </>
