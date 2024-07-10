@@ -7,7 +7,7 @@ import dexscreener from '../assets/dexscreener.svg';
 function Footer() {
     return (
         <>
-            <div className='flex lg:flex-row flex-col items-center justify-between relative px-4 lg:px-24 bg-[#1FAAEF]'>
+            <div className='flex lg:flex-row flex-col items-center justify-between relative px-4 lg:px-24 bg-[#1FAAEF] py-10'>
                 <img src={angelbot} alt="" />
 
                 <div className=" hidden lg:flex links flex-col lg:flex-row">

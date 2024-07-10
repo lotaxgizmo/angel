@@ -25,7 +25,7 @@ function Contract() {
     };
 
     return (
-        <div id='community' className='flex flex-col items-center justify-center relative p-4'>
+        <div id='community' className='flex flex-col items-center justify-center relative p-4 mt-32'>
             <img src={cloudright} alt="" className='absolute -top-44 -right-20 -z-10' />
             <div className='bg-[#FFD401] flex flex-col justify-center items-center rounded-xl lg:rounded-3xl my-10 w-11/12  lg:w-9/12 lg:p-4d  overflow-clip.  border-black border-2 p-4 lg:p-24 relative'>
                 <img src={contractasd} alt="" />
