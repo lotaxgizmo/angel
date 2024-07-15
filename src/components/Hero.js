@@ -1,7 +1,7 @@
 import React from 'react'
 import heroimg from '../assets/heroimg.svg'
 import herotxt from '../assets/herotxt.svg'
-import bannertxt from '../assets/bannertxt.svg'
+import bannertxt from '../assets/bannertxt.png'
 
 function Hero() {
     return (
